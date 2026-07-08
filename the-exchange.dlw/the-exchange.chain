@@ -4,6 +4,6 @@ slug  : the-exchange
 seal  : 2ebca19a147d20520ba4f73cdf0b0b799320db9c71c165b3851536891af1279b
 prev  : fc5e827553e7896a48a1820924e238e0071430b59dbb67f227dba6331eb28c2c
 link  : 844fa3587269653706ad7fb8db89e433a32e7d8f0f35a482677bb9d6743a9a76
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
